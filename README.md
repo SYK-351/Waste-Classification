@@ -38,7 +38,7 @@ Waste-classification/
 ## Setup & Run
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/SYK-351/Waste-Classification.git
 cd Waste-classification
 python -m venv .venv
 .\.venv\Scripts\activate        # Windows
